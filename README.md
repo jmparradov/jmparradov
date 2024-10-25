@@ -14,9 +14,38 @@ I'm an colombian data engineer and data analyst with passion for transforming ra
 ---
 
 ### 📊 Stats
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats-swart-seven-13.vercel.app/api?username=jmparradov&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jmparradov&theme=dark&hide_border=false" /> 
+</td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jmparradov&theme=gruvbox&border_radius=4.5) 
-![Mauricio Parrado's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmparradov&show_icons=true&theme=gruvbox)
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats-swart-seven-13.vercel.app/api/top-langs/?username=jmparradov&theme=dark&hide_border=false&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jmparradov&theme=dark&row=1&column=7&margin-h=15&margin-w=5" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
 
 #
 
