@@ -5,7 +5,7 @@
 I'm an colombian data engineer and data analyst with passion for transforming raw data into actionable insights. I specialize in leveraging data to drive business intelligence and optimize decision-making processes.
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/jmparradov?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jmparradov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/jmparradov?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jmparradov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
