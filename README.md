@@ -12,8 +12,46 @@ I'm an colombian data engineer and data analyst with passion for transforming ra
    </p>
 
 ---
+<h3 align="left">Languages and Tools:</h3>
 
-### 📊 Stats
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Data visualization:</td>
+        <td valign="middle">
+           <img height="47" src="https://img.icons8.com/color/200/power-bi.png"/>
+           <img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=looker,tableau,kibana,d3,matplotlib"/>           
+        </td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Data Analysis:</td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,numpy,matlab"/>           
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Data Engineering:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=azure,gcp,graphql"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,elasticsearch"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DataOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=arduino,fortran,latex"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+    </tr>
+</table>
+
+<h3 align="left">📊Stats:</h3>
 <!--- stats & Trophy (start) -->
 
 
